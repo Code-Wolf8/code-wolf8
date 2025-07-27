@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Code Wolf 👋
 
-<!--
-**Code-Wolf8/code-wolf8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & Software Engineering Student
+Ethical Hacker | Python Developer | Web Designeer
+Currently learning: Burp Suit, Metasploit, JavaScript
+Reach me: ebrimajjjatta@gmail.com/4191007
 
-Here are some ideas to get you started:
+## Teach Stack:
+-Programming: Python, JavaScript, Bash
+-Tools:Git, Nmap, Burp Suite, Wireshark, Vs code
+-OS: Ubuntu, Kail Linux, Windows 10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats:
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?usernamee=code-wolf8&sow_icons=true&theme=dark)
